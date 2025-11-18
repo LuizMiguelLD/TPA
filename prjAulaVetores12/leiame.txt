@@ -1,2 +1,1 @@
 Exercícios de vetores da aula remota
-OBS: Não houve nenhum exercício sobre a fila da merenda da ETEC, exercício 12 no caso, então não é possível fazê-lo.
